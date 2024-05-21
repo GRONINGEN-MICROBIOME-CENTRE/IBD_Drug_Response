@@ -1,6 +1,6 @@
 # IBD_Drug_Response
 
-All the working code for used to generate the results of the IBD drug response project. 
+All the working code used to generate the results of the IBD drug response project. 
 
 
 ##
